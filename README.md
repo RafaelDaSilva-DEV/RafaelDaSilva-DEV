@@ -1,17 +1,48 @@
-# 👋 Olá! Eu sou Rafael da Silva
+#👋 Olá! Eu sou Rafael da Silva
 
-🎯 Aspirante a **QA Engineer** com foco em **automação de testes** e desenvolvimento de habilidades em **Python**.  
-💡 Sempre aprendendo e buscando evoluir nas melhores práticas de qualidade de software, testes automatizados e integração contínua.  
+🎯 Analista de Dados | Desenvolvedor Python | Análise e Desenvolvimento de Sistemas
+
+💡 Profissional da área de tecnologia, com foco em análise de dados, automação de processos e desenvolvimento de soluções utilizando Python e SQL. Sempre buscando aprimorar minhas habilidades técnicas, otimizar processos e transformar dados em informações relevantes para a tomada de decisões.
+
+🚀 Sobre Mim
+
+📊 Atuação com análise de dados, organização de informações e geração de insights.
+
+🐍 Desenvolvimento de scripts e automações com Python para otimização de tarefas e processos.
+
+🗄️ Conhecimentos em SQL, consultas a bancos de dados e manipulação de dados.
+
+📈 Interesse em Business Intelligence (BI), visualização de dados e criação de dashboards.
+
+⚙️ Experiência com bibliotecas Python para análise, tratamento e processamento de dados, como Pandas e OpenPyXL.
+
+🔧 Utilização de Git e GitHub para versionamento de código e organização de projetos.
+
+📚 Em constante aprendizado sobre Engenharia de Dados, ETL, modelagem de dados e boas práticas de desenvolvimento de software.
+
+🛠️ Tecnologias e Ferramentas
+
+- Linguagens: Python e SQL
+- Análise de Dados: Pandas, NumPy e Excel
+- Automação: Python e OpenPyXL
+- Banco de Dados: SQL e conceitos de modelagem de dados
+- BI e Visualização: Looker Studio e Power BI
+- Desenvolvimento: Git, GitHub e VS Code
+- Interesses: Engenharia de Dados, ETL, APIs, automação de processos e desenvolvimento de aplicações
+
+🎯 Objetivos
+
+🚀 Desenvolver soluções que unam programação, análise de dados e automação.
+
+📊 Aprimorar minhas habilidades em análise de dados e Business Intelligence.
+
+🗄️ Evoluir profissionalmente em direção à Engenharia de Dados.
+
+💻 Criar projetos práticos que demonstrem minhas habilidades técnicas e contribuam para a comunidade de tecnologia.
 
 ---
 
-## 🚀 Sobre Mim
-
-- 🧪 Apaixonado por garantir a qualidade de sistemas e aplicações
-- 📘 Estudando: **Testes Automatizados**, **Python para QA**, **Selenium**, **Git/GitHub** e **CI/CD**
-- 📚 Utilizando plataformas como a [DIO.me](https://www.dio.me) para aprimorar meus conhecimentos
-- 💼 Buscando minha primeira oportunidade como QA ou Estagiário em Testes de Software
-- 🌱 Interesses: Testes automatizados, TDD, DevOps, APIs,back-end
+⭐ Explore meus repositórios e acompanhe minha evolução na área de dados e desenvolvimento de software!
 
 ---
 
